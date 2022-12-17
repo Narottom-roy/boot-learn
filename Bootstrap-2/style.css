@@ -1,0 +1,23 @@
+.hero-section{
+    background:url(./photo/banner.png);
+    height:400px;
+    width:100%;
+}
+
+.image{
+    background:url(./photo/op.png);
+    height:400px;
+    width:50%;
+    opacity:0.3;
+    margin-top:50px;
+}
+
+.image-two{
+    height:400px;
+    width:100%;
+}
+
+.hero-three{
+    height:400px;
+}
+
